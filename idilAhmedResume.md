@@ -2,8 +2,7 @@
 
 **Software Developer**   
 
-**Email:** idilahmedd@gmail.com 
-
+**Email:** idilahmedd@gmail.com  
 **Portfolio:** https://idilahmed.dev/
 
 **Github:** https://github.com/idilahmedd  
@@ -30,7 +29,7 @@ Platforms and Tools: **Ajax,Data Structures, OAuth, Git, Github**
 ### Software Development Projects 
 
 **[Kause - Full Stack Web App](https://kause.herokuapp.com/)**  
-Turned design specs from a UX Designer's prototype into a fully responsive UI with Facebook OAuth and GraphQL. Kause is an app for the Activist in each of us, it’s a social platform where users can create, upload and share events for a cause. Designed the database schema to include external Facebook login, used Facebook graphQL to retrieve user info from Facebook. Learned and implemented Bulma styling across entire application.     
+Turned design specs from a UX Designer's prototype into a fully responsive UI with Facebook OAuth and GraphQL. Kause is an app for the Activist in each of us, it’s a social platform where users can create,upload and share events for a cause. Designed the database schema to include external Facebook login, used Facebook graphQL to retrieve user info from Facebook. Learned and implemented Bulma styling across entire application.     
 Tech used:  **React, Facebook OAuth, GraphQL, Bulma, Express, Axios, MongoDB, Mongoose, Node**  
 
 **[KidConnect - Full Stack Web App](https://calm-lake-78124.herokuapp.com/)**  
@@ -54,21 +53,18 @@ Analyzing users’ needs, then design, test, and develop software to meet those 
 **Software Engineering Immersive, Graduate** at General Assembly -Seattle   
 May 2019 - August 2019  
 *Responsibilities:*  
-
 480 credit hour immersive program-
 Built full stack web applications both individually and on teams under tight deadlines, working 50-70 hours per week; larger projects are included in portfolio: www.idilahmed.dev. 
 
 **Administrative Assistant** at King County Housing Authority  
 June 2017 - June 2018  
-*Responsibilities:*  
-
+*Responsibilities:*    
 Administrative work involving comprehensive and complex projects, reports, confidential documents and
 secretarial support.Reconciles and records departmental, operational, fiscal, financial, and statistical records.
 
 **Lead Financial Counselor** at Neighborhood House  
 December 2013 - July 2015  
 *Responsibilities:*   
-
 Provided personal and family professional financial counseling and sophisticated financial planning to
 assist with building savings accounts, increasing credit scores, and addressing issues on credit reports, and assist with setting long-term financial goals.Worked on program process improvement and create multiple databases to investigate and collect data to insure accurate results align with business objectives.
 
