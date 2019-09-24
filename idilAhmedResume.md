@@ -8,7 +8,7 @@
 **LinkedIn:** https://www.linkedin.com/in/idilahmedd/  
 
 ---
-**Contents:** [Skills](#skills) | [Projects](#Software-development-projects) |[Experience](#experience) | [Education](#education) 
+**Contents:** [Skills](#skills) | [Projects](#Software-development-projects) | [Experience](#experience) | [Education](#education) 
 
 ---
 ### Skills  
